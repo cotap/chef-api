@@ -1,6 +1,6 @@
 {
   "name": "chef-api",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "description": "A simple chef server api wrapper",
   "author": "Norman Joyner <norman.joyner@gmail.com>",
   "license": "GPLv2",
@@ -11,7 +11,7 @@
     "url": "git://github.com/normanjoyner/chef-api.git"
   },
   "dependencies": {
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.21",
     "node-rsa": "^0.4.2",
     "request": "^2.63.0"
   },
